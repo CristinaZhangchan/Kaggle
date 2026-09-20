@@ -1,0 +1,26 @@
+# 虚拟环境
+myenv/
+.venv/
+venv/
+env/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 数据文件(Kaggle 数据集通常很大,不建议传到 git)
+*.csv
+*.zip
+data/
+input/
+
+# 系统文件
+.DS_Store
+
+# 环境变量/密钥
+.env
+kaggle.json
