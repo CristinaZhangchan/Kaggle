@@ -1,0 +1,1 @@
+"""Reproducible salary classification exercise."""
